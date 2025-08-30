@@ -1,0 +1,11 @@
+Sample output 1:-
+
+Reconstructed Secret: 3
+Incorrect Share: 1
+
+Sample output 2:-
+
+Reconstructed Secret: 79836264049851
+Incorrect Share: 2
+
+
